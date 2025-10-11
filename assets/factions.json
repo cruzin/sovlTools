@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Abyssal Legions (Sorcerer)",
+    "icon": "AbyssalChampion.png",
+    "color1": "#000000",
+    "color2": "#222222"
+  },
+  {
+    "name": "Abyssal Demons (Placeholder)",
+    "icon": "AbyssalDemonPlaceHolder.png",
+    "color1": "#111111",
+    "color2": "#333333"
+  },
+  {
+    "name": "Darkborn Elves",
+    "icon": "DarkbornPriestess.png",
+    "color1": "#444444",
+    "color2": "#666666"
+  },
+  {
+    "name": "Dead Nations",
+    "icon": "VampireKnight.png",
+    "color1": "#888888",
+    "color2": "#AAAAAA"
+  },
+  {
+    "name": "Deepwood Guardians",
+    "icon": "TreantElder.png",
+    "color1": "#228B22",
+    "color2": "#556B2F"
+  },
+  {
+    "name": "Dwarf Holds",
+    "icon": "DwarfForeman.png",
+    "color1": "#B8860B",
+    "color2": "#DAA520"
+  },
+  {
+    "name": "Elven Conclaves",
+    "icon": "ConclaveElfNoble.png",
+    "color1": "#4682B4",
+    "color2": "#B0C4DE"
+  },
+  {
+    "name": "Empires of Men",
+    "icon": "ImperialCaptain.png",
+    "color1": "#C0C0C0",
+    "color2": "#808080"
+  },
+  {
+    "name": "Goatmen Raiders",
+    "icon": "MinotaurLord.png",
+    "color1": "#8B4513",
+    "color2": "#A0522D"
+  },
+  {
+    "name": "Greenskin Tribes",
+    "icon": "GoblinShaman.png",
+    "color1": "#006400",
+    "color2": "#9ACD32"
+  },
+  {
+    "name": "Ratkin Clans",
+    "icon": "RatkinWarlock.png",
+    "color1": "#696969",
+    "color2": "#A9A9A9"
+  },
+  {
+    "name": "Reptilian Kingdoms",
+    "icon": "NewtPriest.png",
+    "color1": "#2E8B57",
+    "color2": "#20B2AA"
+  }
+]
