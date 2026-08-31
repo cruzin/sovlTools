@@ -6,6 +6,7 @@ import QuickProbability from './QuickProbability';
 import EloCalculator from './EloCalculator';
 import TierMaker from './TierMaker';
 import TierMakerStats from './TierMakerStats';
+import TierMakerCommanders from './TierMakerCommanders';
 
 const TOOLS = [
   {
@@ -43,6 +44,12 @@ const TOOLS = [
     label: 'TierMaker Stats',
     path: '/tierstats',
     component: <TierMakerStats />,
+  },
+  {
+    key: 'tiercommanders',
+    label: 'Tier Maker: Commanders',
+    path: '/tiercommanders',
+    component: <TierMakerCommanders />,
   },
 ];
 
